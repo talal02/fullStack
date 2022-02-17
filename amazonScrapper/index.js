@@ -1,5 +1,6 @@
 const express = require('express');
 const request = require('request-promise');
+var path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -10,7 +11,7 @@ const BASE_URL = `http://api.scraperapi.com?api_key=${API_KEY}&autoparse=true`;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Amazon Scrapper API...!');
+  res.sendFile(path.join(__dirname + '/help.html'));
 });
 
 // Product Details
