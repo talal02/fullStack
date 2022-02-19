@@ -6,4 +6,7 @@ This repository will contain all web development projects I worked on during my 
 [Backend Project (Amazon Scrapper) Using NodeJS, ExpressJS](https://amazon-scraper02.herokuapp.com/)
 ### 18-02-2022
 [1. #100Devs JavaScript Variables](https://codepen.io/talal02/pen/QWOQjQO)
+
 [2. #100Devs JavaScript Basic Functions](https://codepen.io/talal02/pen/RwjQWOo)
+### 18-02-2022
+[Revised Node JS (Backend Basics) @Covalence Bootcamp](https://github.com/talal02/Covalence/tree/main/NodeJS)
