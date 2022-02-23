@@ -8,5 +8,7 @@ This repository will contain all web development projects I worked on during my 
 [1. #100Devs JavaScript Variables](https://codepen.io/talal02/pen/QWOQjQO)
 
 [2. #100Devs JavaScript Basic Functions](https://codepen.io/talal02/pen/RwjQWOo)
-### 18-02-2022
+### 20-02-2022
 [Revised Node JS (Backend Basics) @Covalence Bootcamp](https://github.com/talal02/Covalence/tree/main/NodeJS)
+### 23-02-2022
+[Completed React JS Building an Interface @LinkedIn Learning](certificates/)
