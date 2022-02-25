@@ -8,3 +8,5 @@
 #100Devs [CSS Practice BBC Homepage {Live Site}](https://stream-unmarred-chalk.glitch.me/)  [{Source Code}](/BBC)
 ### 24-02-2022
 #100Devs [CSS Practice Khan Academy Homepage {Live Site}](https://astonishing-planet-locust.glitch.me/)  [{Source Code}](/%23100Devs/KhanAcademy)
+
+#100Devs [CSS Practice Tech Crunch Homepage {Live Site}](https://gregarious-acute-shrine.glitch.me)  [{Source Code}](/%23100Devs/TechCrunch)
