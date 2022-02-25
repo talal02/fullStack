@@ -6,3 +6,5 @@
 ### 23-02-2022
 #100Devs (JavaScript Function Expressions, JavaScript Arrow Functions ES6 & Loops done)
 #100Devs [CSS Practice BBC Homepage {Live Site}](https://stream-unmarred-chalk.glitch.me/)  [{Source Code}](/BBC)
+### 24-02-2022
+#100Devs [CSS Practice Khan Academy Homepage {Live Site}](https://astonishing-planet-locust.glitch.me/)  [{Source Code}](/%23100Devs/KhanAcademy)

@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+}
+
+nav {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid rgb(240, 241, 242);
+  color: #1865f2;
+  font-weight: bolder;
+  align-items: center;
+}
+
+nav h5 {
+  font-weight: bolder;
+  display: flex;
+  margin: 0 10px;
+}
+
+.nav-list {
+  margin: 0 10px;
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-list-item {
+  min-width: 55px;
+  margin-right: 20px;
+}
+
+.input-container {
+  margin: 0 20px;
+  display: flex;
+}
+
+.search-bar {
+  background-color: rgb(240, 241, 242);
+  border: none;
+  height: 40px;
+  padding: 0;
+  padding-left: 15px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.search-bar::placeholder {
+  color: #1865f2;
+}
+
+.search-btn {
+  border: none;
+  height: 40px;
+  padding-right: 10px;
+  background-color: rgb(240, 241, 242);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: black;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  min-width: 180px;
+  width: 500px;
+}
+
+.body-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.body-2-wrapper {
+  margin: 120px 0px;
+  min-width: 1120px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 560px 560px;
+}
+
+.body-2-wrapper > div {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.primary-btn {
+  border: none;
+  background-color: #1865f2;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  width: 238px;
+  height: 60px;
+}
+
+.body-3 {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(240, 241, 242);
+  height: 260px;
+}
+
+.body-3 h1 {
+  padding: 20px 30px;
+}
+
+.orange-btn {
+  color: white;
+  font-size: x-large;
+  border: 0px ;
+  padding: 0px ;
+  margin: 0px ;
+  background-color: transparent ;
+  position: absolute ;
+  left: 50% ;
+  background-image: url(https://cdn.kastatic.org/images/marketing-content/button-background-orange.png) ;
+  background-repeat: no-repeat ;
+  background-position: center ;
+  background-size: cover ;
+  height: 75px ;
+  width: 91px ;
+  cursor: pointer ;
+  margin-top: -40px;
+}
