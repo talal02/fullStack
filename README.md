@@ -22,4 +22,5 @@ This repository will contain all web development projects I worked on during my 
 
 #100Devs [CSS Practice Tech Crunch Homepage {Live Site}](https://gregarious-acute-shrine.glitch.me)  [{Source Code}](/%23100Devs/TechCrunch)
 
-### YES
+### 26-05-2022
+[Completed React JS Complete Path @LinkedIn Learning](/certificates/ReactJS_Complete_Path.png)
