@@ -25,4 +25,7 @@ This repository will contain all web development projects I worked on during my 
 ### 26-05-2022
 [Completed React JS Complete Path @LinkedIn Learning](/certificates/ReactJS_Complete_Path.png)
 
-#### JavaScript Zero To Mastery (Values, Variables, DataTypes)
+#### JavaScript Zero To Mastery ([Values, Variables](/JavaScript%20Zero%20To%20Mastery/values_variables.md), [DataTypes](/JavaScript%20Zero%20To%20Mastery/datatypes.md))
+
+### 26-05-2022
+#### JavaScript Zero To Mastery ([Expressions, Operators](/JavaScript%20Zero%20To%20Mastery/expressions_operators.md))

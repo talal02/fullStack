@@ -1,6 +1,6 @@
-# INTERVIW QUESTIONS
+# INTERVIEW QUESTIONS
 
-### 1. Difference between null & underfined
+### 1. Difference between null & undefined
 
 - Null is assigned, and explicitly means nothing. Purposely, declared variables are assigned null
 ```
@@ -26,7 +26,7 @@ console.log(null !== undefined)
 console.log(null == undefined)
 ```
 
-
+****
 ### 2. What is NaN?
 
 - Not a Number, it is property of global object.
@@ -38,3 +38,10 @@ console.log(null == undefined)
  5. A value that can't be parsed as Number e.g. Number("h1")
  6. Two NaN's aren't equal because Infinity/Infinity != Math.sqrt(-1)
 
+****
+### 3. What is difference between `==` and `===`?
+
+- `==` is the comparison operator which compares the values of two operands
+- e.g. **`5 == '5' returns true;`** because value of both operands is same. 
+- - `===` is the comparison operator which compares the values of two operands as well as their datatype.
+- e.g. **`5 === '5' returns false;`** because value of both operands is same but datatype is different. 
