@@ -28,7 +28,7 @@ This repository will contain all web development projects I worked on during my 
   - #### JavaScript Zero To Mastery ([Values, Variables](/JavaScript%20Zero%20To%20Mastery/values_variables.md), [DataTypes](/JavaScript%20Zero%20To%20Mastery/datatypes.md))
 
 - ### 26-05-2022
-  - #### JavaScript Zero To Mastery ([Expressions, Operators](/JavaScript%20Zero%20To%20Mastery/expressions_operators.md))
+  - #### JavaScript Zero To Mastery ([Expressions, Operators](/JavaScript%20Zero%20To%20Mastery/expressions_operators.md), [Control Statements & Loops](/JavaScript%20Zero%20To%20Mastery/controlStatements_loops.md))
   - #### LeetCode DSA Problems 
     1. [Problem # 26 - Remove Duplicates from Sorted Array](/LeetCodeDSA/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
     2. [Problem # 27 - Remove Element](/LeetCodeDSA/27.%20Remove%20Element.md)
