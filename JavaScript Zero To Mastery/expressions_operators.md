@@ -32,5 +32,7 @@
    - The concatenation operator `( + )`  concatenates two string together and returns another string that is union of two operand strings;
    - e.g. **`'TA:' + 'LAL' returns 'TA:LAL'`**
 ##### 6. Ternary Operator
-   - TO BE CONTINUED
+   - It is the only JavaScript operator that takes `three (3)` *operands*. It is short-hand version of **if...else**.
+   - e.g. **`variable = (condition) ? value1 : value2`**
+   - e.g. **`console.log((age >= 18) ? "Vote" : "Nope")`**
 ****
