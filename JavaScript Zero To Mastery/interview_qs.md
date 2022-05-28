@@ -45,3 +45,11 @@ console.log(null == undefined)
 - e.g. **`5 == '5' returns true;`** because value of both operands is same. 
 - - `===` is the comparison operator which compares the values of two operands as well as their datatype.
 - e.g. **`5 === '5' returns false;`** because value of both operands is same but datatype is different. 
+
+****
+
+### 4. Why we use functions?
+
+- We use functions to make code **`reuseable`** and to avoid **`redundant`** code.
+- _Define the code once, and use it many times by just invoking it_.
+- We can use same block of code many times with different arguments to produce different results. 
