@@ -37,7 +37,7 @@ This repository will contain all web development projects I worked on during my 
 - ### 28-05-2022
   - #### JavaScript Zero To Mastery ([Functions in JS](/JavaScript%20Zero%20To%20Mastery/functions.md), [EcmaScript-2015 (ES6) basic changes](/JavaScript%20Zero%20To%20Mastery/ecmascript_2015.md))
   - #### LeetCode DSA Problems
-    1. [Problem # 268 - Missing Number](/LeetCodeDSA/) 
+    1. [Problem # 268 - Missing Number](/LeetCodeDSA/268.%20Missing%20Number.md) 
     2. [Problem # 1588 - Sum of All Odd Length Subarrays](/LeetCodeDSA/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md) 
     3. [Problem # 1773 - Count Items Matching a Rule](/LeetCodeDSA/1773.%20Count%20Items%20Matching%20a%20Rule.md) 
     4. [Problem # 2011 - Final Value of Variable After Performing Operations](/LeetCodeDSA/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.md) 
