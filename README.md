@@ -27,3 +27,7 @@ This repository will contain all web development projects I worked on during my 
     4. [Problem # 2011 - Final Value of Variable After Performing Operations](/LeetCodeDSA/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.md) 
     5. [Problem # 2114 - Maximum Number of Words Found in Sentences](/LeetCodeDSA/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md) 
 
+- ### 29-05-2022
+  - #### JavaScript Zero To Mastery ([Arrays in JS](/JavaScript%20Zero%20To%20Mastery/arrays.md))
+  - #### LeetCode DSA Problems
+    1. TO BE ADDED 
