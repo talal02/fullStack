@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Survey Form</title>
+</head>
+<body>
+
+  <div class="container">
+    <section>
+      <h1>freeCodeCamp Survey Form</h1>
+      <p>Thank you for taking the time to help us improve the platform</p>
+      <form>
+        <div class="inputBlock">
+          <label for="Name">Name</label>
+          <br>
+          <input type="text" name="Name" id="Name" placeholder="Enter your Name">
+        </div>
+        <div class="inputBlock">
+          <label for="Email">Email</label>
+          <br>
+          <input type="email" name="Email" id="Email" placeholder="Enter your Email">
+        </div>
+        <div class="inputBlock">
+          <label for="Age">Age (Optional)</label>
+          <br>
+          <input type="number" name="Age" id="Age" placeholder="Age">
+        </div>
+        <div class="inputBlock">
+          <label for="option">Which option describes your current role?</label>
+          <br>
+          <select name="option" id="option">
+            <option disabled="" selected="" value="">Select current role</option>
+            <option value="student">Student</option>
+            <option value="job">Full Time Job</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="inputBlock">
+          <label for="recommend">Would you recommend freeCodeCamp to a friend?</label>
+          <br>
+          <label class="l-radio">            
+            <input class="radio" type="radio" name="recommend" id="recommend" value="definitely">
+            Hello
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="radio" name="recommend" id="recommend" value="maybe">
+            Maybe
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="radio" name="recommend" id="recommend" value="notSure">
+            Not Sure
+          </label>
+        </div>
+        <div class="inputBlock">
+          <label for="checks">What would you like to see improved? (Check all that apply)</label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="frontend">
+            Front-End Projects
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="backend">
+            Back-End Projects
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="dataVisualization">
+            Data Visualization
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="challenges">
+            Challenges
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="openSource">
+            Open Source Community
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="gitter">
+            Gitter Help Rooms
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="videos">
+            Videos
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="cityMeetups">
+            City Meetups
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="wiki">
+            Wiki
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="forum">
+            Forum
+          </label>
+          <br>
+          <label class="l-radio">
+            <input class="radio" type="checkbox" name="checks" id="checks" value="courses">
+            Additional Courses
+          </label>
+        </div>        
+        <div class="inputBlock">
+          <label for="comments">Any comments or suggestions?</label>
+          <br>
+          <textarea name="comments" id="comments" cols="30" rows="5" placeholder="Enter your comments here..."></textarea>
+        </div>
+        <div class="inputBlock">
+          <button>Submit</button>
+        </div>
+      </form>
+    </section>
+    
+  </div>
+  
+</body>
+</html>

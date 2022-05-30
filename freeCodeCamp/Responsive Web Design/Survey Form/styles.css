@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,800;1,200;1,400;1,600;1,700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
+:root {
+  --color-white: #f3f3f3;
+  --color-darkblue: #1b1b32;
+  --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+  --color-green: #37af65;
+}
+
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background: var(--color-darkblue);
+  background-image: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--color-white);
+  margin: 0;
+}
+
+.container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.container h1 {
+  font-weight: 300;
+  text-align: center;
+  font-size: x-large;
+  margin-bottom: 0px;
+}
+
+.container p {
+  font-weight: 200;
+  font-style: italic;
+  font-size: medium;
+  text-align: center;
+  margin-top: 6px;
+}
+
+.container form {
+  background: var(--color-darkblue-alpha);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}
+
+.inputBlock {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+.inputBlock label {
+  font-size: small;
+}
+
+.inputBlock input, .inputBlock select, .inputBlock textarea, .inputBlock button {
+  font-family: 'Poppins' !important;
+  width: 100%;
+  border-radius: 5px;
+  line-height: 1.4;
+  padding: 8px;
+}
+
+.inputBlock button {
+  border: 1px solid var(--color-green);
+  background-color: var(--color-green);
+}
+
+.l-radio {
+  font-size: medium !important;
+}
+
+.radio {
+  width: auto !important;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 660px) {
+  .container h1 {
+    font-size: large;
+  }
+  
+  .container p {
+    font-size: small;
+  }
+}
