@@ -35,3 +35,7 @@ This repository will contain all web development projects I worked on during my 
     3. [Problem # 2006 - Count Number of Pairs With Absolute Difference K.md](/LeetCodeDSA/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.md) 
     4. [Problem # 2037 - Minimum Number of Moves to Seat Everyone.md](/LeetCodeDSA/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md)
   - #### [FreeCodeCamp certificate - JavaScript DataStructures & Algorithms](/certificates/freecodecamp_js_dsa.jpg)
+
+- ### 30-05-2022
+  - #### FreeCodeCamp - Responsive Web Design 
+    1. [Survey Page](/freeCodeCamp/Responsive%20Web%20Design/Survey%20Form/index.html)
