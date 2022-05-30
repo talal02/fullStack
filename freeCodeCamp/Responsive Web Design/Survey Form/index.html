@@ -11,28 +11,28 @@
 
   <div class="container">
     <section>
-      <h1>freeCodeCamp Survey Form</h1>
-      <p>Thank you for taking the time to help us improve the platform</p>
-      <form>
+      <h1 id="title">freeCodeCamp Survey Form</h1>
+      <p id="description">Thank you for taking the time to help us improve the platform</p>
+      <form id="survey-form">
         <div class="inputBlock">
-          <label for="Name">Name</label>
+          <label id="name-label" for="Name">Name</label>
           <br>
-          <input type="text" name="Name" id="Name" placeholder="Enter your Name">
+          <input type="text" name="Name" id="name" placeholder="Enter your Name" required>
         </div>
         <div class="inputBlock">
-          <label for="Email">Email</label>
+          <label id="email-label" for="Email">Email</label>
           <br>
-          <input type="email" name="Email" id="Email" placeholder="Enter your Email">
+          <input type="email" name="Email" id="email" placeholder="Enter your Email" required>
         </div>
         <div class="inputBlock">
-          <label for="Age">Age (Optional)</label>
+          <label id="number-label" for="Age">Age (Optional)</label>
           <br>
-          <input type="number" name="Age" id="Age" placeholder="Age">
+          <input type="number" name="Age" id="number" placeholder="Age" min="12" max="70">
         </div>
         <div class="inputBlock">
           <label for="option">Which option describes your current role?</label>
           <br>
-          <select name="option" id="option">
+          <select name="option" id="dropdown">
             <option disabled="" selected="" value="">Select current role</option>
             <option value="student">Student</option>
             <option value="job">Full Time Job</option>
@@ -123,7 +123,7 @@
           <textarea name="comments" id="comments" cols="30" rows="5" placeholder="Enter your comments here..."></textarea>
         </div>
         <div class="inputBlock">
-          <button>Submit</button>
+          <button id="submit">Submit</button>
         </div>
       </form>
     </section>
