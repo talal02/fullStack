@@ -39,3 +39,8 @@ This repository will contain all web development projects I worked on during my 
 - ### 30-05-2022
   - #### FreeCodeCamp - Responsive Web Design 
     1. [Survey Page](/freeCodeCamp/Responsive%20Web%20Design/Survey%20Form/index.html)
+
+- ### 02-06-2022
+  - #### FreeCodeCamp - Responsive Web Design 
+    1. [Tribute Page](/freeCodeCamp/Responsive%20Web%20Design/Survey%20Form/index.html)
+
