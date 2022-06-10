@@ -1,6 +1,9 @@
 # LeetCode Problems (JavaScript)
 [Follow me on Twitter 🐦](https://twitter.com/t_alal02) | [Follow me on Medium](https://medium.com/@talal02) | [Connect on LinkedIn](https://www.linkedin.com/in/talal02)
 ****
+### Important
+20. ##### [Valid Parentheses](/LeetCodeDSA/Important/20.%20Valid%20Parentheses.md)
+****
 ### Problems
 26. ##### [Remove Duplicates from Sorted Array.md](/LeetCodeDSA/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 27. ##### [Remove Element.md](/LeetCodeDSA/27.%20Remove%20Element.md)

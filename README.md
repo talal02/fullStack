@@ -52,3 +52,5 @@ This repository will contain all web development projects I worked on during my 
   - #### FreeCodeCamp - Responsive Web Design 
     1. [Product Landing Page](/freeCodeCamp/Responsive%20Web%20Design/Product%20Landing%20Page/index.html)
 
+  - #### LeetCode DSA Problems
+    1. [Problem # 20 - Valid Parentheses](/LeetCodeDSA/Important/20.%20Valid%20Parentheses.md)
