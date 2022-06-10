@@ -48,3 +48,7 @@ This repository will contain all web development projects I worked on during my 
   - #### FreeCodeCamp - Responsive Web Design 
     1. [Technical Description Page](/freeCodeCamp/Responsive%20Web%20Design/Technical%20Description%20Page/index.html)
 
+- ### 10-06-2022
+  - #### FreeCodeCamp - Responsive Web Design 
+    1. [Product Landing Page](/freeCodeCamp/Responsive%20Web%20Design/Product%20Landing%20Page/index.html)
+
