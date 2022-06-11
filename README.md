@@ -54,3 +54,6 @@ This repository will contain all web development projects I worked on during my 
 
   - #### LeetCode DSA Problems
     1. [Problem # 20 - Valid Parentheses](/LeetCodeDSA/Important/20.%20Valid%20Parentheses.md)
+
+- ### 11-06-2022
+  - #### [FreeCodeCamp certificate - Responsive Web Design](/certificates/freecodecamp_responsive_web_design.jpg)
