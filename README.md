@@ -53,7 +53,12 @@ This repository will contain all web development projects I worked on during my 
     1. [Product Landing Page](/freeCodeCamp/Responsive%20Web%20Design/Product%20Landing%20Page/index.html)
 
   - #### LeetCode DSA Problems
-    1. [Problem # 20 - Valid Parentheses](/LeetCodeDSA/Important/20.%20Valid%20Parentheses.md)
+    1. [Problem # 20 - Valid Parentheses](/LeetCodeDSA/Interview%20Prep/20.%20Valid%20Parentheses.md)
 
 - ### 11-06-2022
   - #### [FreeCodeCamp certificate - Responsive Web Design](/certificates/freecodecamp_responsive_web_design.jpg)
+
+- ### 19-06-2022
+  - #### LeetCode Interview Prep - Programming Skills Section
+    1. [Problem # 1523 - Count Odd Numbers in an Interval Range](/LeetCodeDSA/Interview%20Prep/Programming%20Skills/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)
+    2. [Problem # 1491 - Average Salary Excluding the Minimum and Maximum Salary](/LeetCodeDSA/Interview%20Prep/Programming%20Skills/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
