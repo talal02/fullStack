@@ -70,3 +70,8 @@ This repository will contain all web development projects I worked on during my 
   - **Started #100DaysOfCode Challenge**
   - **One Codewars Kata Solved [<5 kyu> Maximum subarray sum](/Codewars/maximum-subarray-sum.md)**
   - **50% section of React done @freeCodeCam Front End Development Libraries**
+
+- ### 16-08-2022
+
+  - **One Codewars Kata Solved [<6 kyu> Build a pile of Cubes](/Codewars/maximum-subarray-sum.md)**
+  - **Complete section of React done @freeCodeCam Front End Development Libraries**
