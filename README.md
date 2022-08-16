@@ -73,5 +73,5 @@ This repository will contain all web development projects I worked on during my 
 
 - ### 16-08-2022
 
-  - **One Codewars Kata Solved [<6 kyu> Build a pile of Cubes](/Codewars/maximum-subarray-sum.md)**
+  - **One Codewars Kata Solved [<6 kyu> Build a pile of Cubes](/Codewars/build-pile-of-cube.md)**
   - **Complete section of React done @freeCodeCam Front End Development Libraries**
