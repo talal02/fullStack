@@ -75,3 +75,7 @@ This repository will contain all web development projects I worked on during my 
 
   - **One Codewars Kata Solved [<6 kyu> Build a pile of Cubes](/Codewars/build-pile-of-cube.md)**
   - **Complete section of React done @freeCodeCam Front End Development Libraries**
+
+### 18-08-2022
+
+  - **Day 20 of #100DaysOfCode, Created a project [Tic Tac Toe](/projects/tic-tac-toe/) using react**
