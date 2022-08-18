@@ -79,3 +79,4 @@ This repository will contain all web development projects I worked on during my 
 ### 18-08-2022
 
   - **Day 20 of #100DaysOfCode, Created a project [Tic Tac Toe](/projects/tic-tac-toe/) using react**
+  - **One Codewars Kata Solved [<5 kyu> Extract the domain name from a URL](/Codewars/extract-domain-name-from-url.md)**
