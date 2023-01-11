@@ -17,3 +17,4 @@
 2011. ##### [Final Value of Variable After Performing Operations.md](/LeetCodeDSA/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.md)
 2037. ##### [Minimum Number of Moves to Seat Everyone.md](/LeetCodeDSA/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md)   
 2114. ##### [Maximum Number of Words Found in Sentences.md](/LeetCodeDSA/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md) 
+66. ##### [Plus One.md](/LeetCodeDSA/66.%20Plus%20One.md) 
