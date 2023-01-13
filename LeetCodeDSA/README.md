@@ -19,3 +19,4 @@
 - ##### 2114 [Maximum Number of Words Found in Sentences.md](/LeetCodeDSA/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md) 
 - ##### 66 [Plus One.md](/LeetCodeDSA/66.%20Plus%20One.md) 
 - ##### 268 [Summary Ranges.md](/LeetCodeDSA/268.%20Summary%20Ranges.md)
+- ##### 231 [Power Of Two.md](/LeetCodeDSA/231.%20Power%20Of%20Two.md)
