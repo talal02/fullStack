@@ -20,3 +20,4 @@
 - ##### 66 [Plus One.md](/LeetCodeDSA/66.%20Plus%20One.md) 
 - ##### 268 [Summary Ranges.md](/LeetCodeDSA/268.%20Summary%20Ranges.md)
 - ##### 231 [Power Of Two.md](/LeetCodeDSA/231.%20Power%20Of%20Two.md)
+- ##### 257 [Binary Tree Paths.md](/LeetCodeDSA/257.%20Binary%20Tree%20Paths.md)
